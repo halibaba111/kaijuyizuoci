@@ -1,0 +1,302 @@
+[
+  {
+    "name": "button-primary",
+    "file": "/assets/ui/button-primary.png",
+    "group": "buttons",
+    "sourceRect": {
+      "x": 370,
+      "y": 45,
+      "height": 255,
+      "width": 800
+    },
+    "outputSize": "756x227"
+  },
+  {
+    "name": "button-standard-a",
+    "file": "/assets/ui/button-standard-a.png",
+    "group": "buttons",
+    "sourceRect": {
+      "x": 35,
+      "y": 315,
+      "height": 185,
+      "width": 465
+    },
+    "outputSize": "452x158"
+  },
+  {
+    "name": "button-standard-b",
+    "file": "/assets/ui/button-standard-b.png",
+    "group": "buttons",
+    "sourceRect": {
+      "x": 525,
+      "y": 315,
+      "height": 185,
+      "width": 465
+    },
+    "outputSize": "449x156"
+  },
+  {
+    "name": "button-standard-c",
+    "file": "/assets/ui/button-standard-c.png",
+    "group": "buttons",
+    "sourceRect": {
+      "x": 1025,
+      "y": 315,
+      "height": 185,
+      "width": 475
+    },
+    "outputSize": "450x155"
+  },
+  {
+    "name": "button-disabled-a",
+    "file": "/assets/ui/button-disabled-a.png",
+    "group": "buttons",
+    "sourceRect": {
+      "x": 35,
+      "y": 505,
+      "height": 165,
+      "width": 465
+    },
+    "outputSize": "438x155"
+  },
+  {
+    "name": "button-disabled-b",
+    "file": "/assets/ui/button-disabled-b.png",
+    "group": "buttons",
+    "sourceRect": {
+      "x": 525,
+      "y": 505,
+      "height": 165,
+      "width": 465
+    },
+    "outputSize": "441x155"
+  },
+  {
+    "name": "button-disabled-c",
+    "file": "/assets/ui/button-disabled-c.png",
+    "group": "buttons",
+    "sourceRect": {
+      "x": 1025,
+      "y": 505,
+      "height": 165,
+      "width": 475
+    },
+    "outputSize": "436x154"
+  },
+  {
+    "name": "button-active-a",
+    "file": "/assets/ui/button-active-a.png",
+    "group": "buttons",
+    "sourceRect": {
+      "x": 35,
+      "y": 650,
+      "height": 165,
+      "width": 465
+    },
+    "outputSize": "437x161"
+  },
+  {
+    "name": "button-active-b",
+    "file": "/assets/ui/button-active-b.png",
+    "group": "buttons",
+    "sourceRect": {
+      "x": 525,
+      "y": 650,
+      "height": 165,
+      "width": 465
+    },
+    "outputSize": "424x101"
+  },
+  {
+    "name": "button-active-c",
+    "file": "/assets/ui/button-active-c.png",
+    "group": "buttons",
+    "sourceRect": {
+      "x": 1025,
+      "y": 650,
+      "height": 165,
+      "width": 475
+    },
+    "outputSize": "423x157"
+  },
+  {
+    "name": "decorative-bar",
+    "file": "/assets/ui/decorative-bar.png",
+    "group": "chrome",
+    "sourceRect": {
+      "x": 35,
+      "y": 800,
+      "height": 150,
+      "width": 1470
+    },
+    "outputSize": "1451x111"
+  },
+  {
+    "name": "resource-bar-a",
+    "file": "/assets/ui/resource-bar-a.png",
+    "group": "resources",
+    "sourceRect": {
+      "x": 35,
+      "y": 970,
+      "height": 180,
+      "width": 465
+    },
+    "outputSize": "449x117"
+  },
+  {
+    "name": "resource-bar-b",
+    "file": "/assets/ui/resource-bar-b.png",
+    "group": "resources",
+    "sourceRect": {
+      "x": 525,
+      "y": 970,
+      "height": 180,
+      "width": 465
+    },
+    "outputSize": "456x117"
+  },
+  {
+    "name": "resource-bar-c",
+    "file": "/assets/ui/resource-bar-c.png",
+    "group": "resources",
+    "sourceRect": {
+      "x": 1025,
+      "y": 970,
+      "height": 180,
+      "width": 475
+    },
+    "outputSize": "465x117"
+  },
+  {
+    "name": "tab-a",
+    "file": "/assets/ui/tab-a.png",
+    "group": "tabs",
+    "sourceRect": {
+      "x": 35,
+      "y": 1140,
+      "height": 190,
+      "width": 430
+    },
+    "outputSize": "419x154"
+  },
+  {
+    "name": "tab-b",
+    "file": "/assets/ui/tab-b.png",
+    "group": "tabs",
+    "sourceRect": {
+      "x": 550,
+      "y": 1140,
+      "height": 190,
+      "width": 430
+    },
+    "outputSize": "407x154"
+  },
+  {
+    "name": "member-card-a",
+    "file": "/assets/ui/member-card-a.png",
+    "group": "cards",
+    "sourceRect": {
+      "x": 35,
+      "y": 1320,
+      "height": 650,
+      "width": 380
+    },
+    "outputSize": "373x535"
+  },
+  {
+    "name": "member-card-b",
+    "file": "/assets/ui/member-card-b.png",
+    "group": "cards",
+    "sourceRect": {
+      "x": 390,
+      "y": 1320,
+      "height": 650,
+      "width": 380
+    },
+    "outputSize": "347x537"
+  },
+  {
+    "name": "member-card-c",
+    "file": "/assets/ui/member-card-c.png",
+    "group": "cards",
+    "sourceRect": {
+      "x": 760,
+      "y": 1320,
+      "height": 650,
+      "width": 380
+    },
+    "outputSize": "345x536"
+  },
+  {
+    "name": "member-card-d",
+    "file": "/assets/ui/member-card-d.png",
+    "group": "cards",
+    "sourceRect": {
+      "x": 1120,
+      "y": 1320,
+      "height": 650,
+      "width": 380
+    },
+    "outputSize": "375x536"
+  },
+  {
+    "name": "industry-card-a",
+    "file": "/assets/ui/industry-card-a.png",
+    "group": "cards",
+    "sourceRect": {
+      "x": 35,
+      "y": 1950,
+      "height": 540,
+      "width": 380
+    },
+    "outputSize": "373x471"
+  },
+  {
+    "name": "industry-card-b",
+    "file": "/assets/ui/industry-card-b.png",
+    "group": "cards",
+    "sourceRect": {
+      "x": 390,
+      "y": 1950,
+      "height": 540,
+      "width": 380
+    },
+    "outputSize": "363x515"
+  },
+  {
+    "name": "industry-card-c",
+    "file": "/assets/ui/industry-card-c.png",
+    "group": "cards",
+    "sourceRect": {
+      "x": 760,
+      "y": 1950,
+      "height": 540,
+      "width": 380
+    },
+    "outputSize": "368x515"
+  },
+  {
+    "name": "industry-card-d",
+    "file": "/assets/ui/industry-card-d.png",
+    "group": "cards",
+    "sourceRect": {
+      "x": 1120,
+      "y": 1950,
+      "height": 540,
+      "width": 380
+    },
+    "outputSize": "375x470"
+  },
+  {
+    "name": "bottom-panel",
+    "file": "/assets/ui/bottom-panel.png",
+    "group": "panels",
+    "sourceRect": {
+      "x": 15,
+      "y": 2470,
+      "height": 255,
+      "width": 1505
+    },
+    "outputSize": "1501x204"
+  }
+]
