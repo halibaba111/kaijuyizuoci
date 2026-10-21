@@ -1,0 +1,1577 @@
+{
+  "schemaVersion": 1,
+  "entry": "index.html",
+  "files": [
+    {
+      "path": "assets/backgrounds/court-dossier.jpg",
+      "size": 13540,
+      "sha256": "0a2b9b5356f39fd23a87fbe6ee9d023a8848249eff9da4a54622ce91cfafc38d"
+    },
+    {
+      "path": "assets/backgrounds/court-dossier.webp",
+      "size": 31418,
+      "sha256": "8d90a446d91667d5c92ce5f69073e6413a69a65a3a9cd47387c6599207ea1397"
+    },
+    {
+      "path": "assets/backgrounds/events.jpg",
+      "size": 97152,
+      "sha256": "274648f13d588c9161c649f7da5ba033424a4936d3b17d385031102cbfe9b107"
+    },
+    {
+      "path": "assets/backgrounds/events.webp",
+      "size": 89324,
+      "sha256": "606d7af1d1e57478c785215be4b0318b9b2144acf2e93ee20bfed50af5fa18a7"
+    },
+    {
+      "path": "assets/backgrounds/family.jpg",
+      "size": 121767,
+      "sha256": "064b3845bf0f2e1e62c50fa2e4cb266d20a8a00cd2eaf48f66a0a2c00fb47df2"
+    },
+    {
+      "path": "assets/backgrounds/family.webp",
+      "size": 121858,
+      "sha256": "3fac9f4c142ad792be85bf4abcb5e58e4c7303ae22c91b08e181541a66b0c6b9"
+    },
+    {
+      "path": "assets/backgrounds/genealogy.jpg",
+      "size": 78821,
+      "sha256": "e4cc376efd9228e1d6293ce67ba9bc43d933a432a1166d317f2acbcee9cfaec8"
+    },
+    {
+      "path": "assets/backgrounds/genealogy.webp",
+      "size": 65390,
+      "sha256": "e665e63a8258082ab13c4222778a092381b38c343a2456017b53285a733e528e"
+    },
+    {
+      "path": "assets/backgrounds/imperial-city.jpg",
+      "size": 186388,
+      "sha256": "f68f069f06ad61535fdf0c3422d5afc2ac85945cd34af98bd780beaa12945cd1"
+    },
+    {
+      "path": "assets/backgrounds/imperial-city.webp",
+      "size": 211172,
+      "sha256": "673d21ab4fd4f640097e057c4812c724bbd1b99fc107e85438c60fe4dfd05c7e"
+    },
+    {
+      "path": "assets/backgrounds/industry.jpg",
+      "size": 126374,
+      "sha256": "ac4c3339b626cc5f9b67efd0834180de9ec180ec5d6942d9b2fc11dd3c7d4cad"
+    },
+    {
+      "path": "assets/backgrounds/industry.webp",
+      "size": 122332,
+      "sha256": "6a42e5bded7df2d9ee52106a44bc015d7cf75297057e619dddf7ffb0a7931efc"
+    },
+    {
+      "path": "assets/backgrounds/main-menu.jpg",
+      "size": 211730,
+      "sha256": "fb20fb34f1e4b9b58910e1243da1ffbdad020db6d4bd3acfa47b6cc46c7e5beb"
+    },
+    {
+      "path": "assets/backgrounds/main-menu.webp",
+      "size": 203716,
+      "sha256": "492a0a560ac551975c870a957301c56c9867d0156127a60cd346a5113912815e"
+    },
+    {
+      "path": "assets/backgrounds/mansion.jpg",
+      "size": 147143,
+      "sha256": "520a4a1b028c9ed3b35a874e7e302d78079e0f9b33acd33d2ca30a483ebbc4c6"
+    },
+    {
+      "path": "assets/backgrounds/mansion.webp",
+      "size": 165628,
+      "sha256": "adf0d44310e8f9664b86afc69075ab509d4dec5e33a248c93861d4eb0ab57e52"
+    },
+    {
+      "path": "assets/backgrounds/map-realm.jpg",
+      "size": 168573,
+      "sha256": "a3542ebc616158dcc9fc09586b724b9f936cc15fb0d42741db3df50f97caae5a"
+    },
+    {
+      "path": "assets/backgrounds/map-realm.webp",
+      "size": 178970,
+      "sha256": "7eb7ef24f38831236ccbe1c4618ae76be11ccdfd0612cbb32824e946de04c31f"
+    },
+    {
+      "path": "assets/backgrounds/maps/academy.jpg",
+      "size": 270107,
+      "sha256": "f67cb4eea9d658ebc4454247ec8a9a84476ea1c9749bce30244832cd264fd6dd"
+    },
+    {
+      "path": "assets/backgrounds/maps/academy.webp",
+      "size": 273548,
+      "sha256": "ff19a18df77567a8474ae74a2de50c6f71ef3b2111be4d55f1dfbb85416e7de4"
+    },
+    {
+      "path": "assets/backgrounds/maps/ancestral-hall.jpg",
+      "size": 218783,
+      "sha256": "88c5fd82b8d8f04f6f2fbd70ec124729f5e57e40660d65d7dde56ca7079fe466"
+    },
+    {
+      "path": "assets/backgrounds/maps/ancestral-hall.webp",
+      "size": 241876,
+      "sha256": "dc60963b985f1234ff4f86c644ded35c1eff6f7e2bdc0559e1c592cc8fb04f12"
+    },
+    {
+      "path": "assets/backgrounds/maps/estate-hub.jpg",
+      "size": 252859,
+      "sha256": "ab44e459468a0c600c94e25fc0a11a73630a9f37c90485fb1cd6aba61f6fc73d"
+    },
+    {
+      "path": "assets/backgrounds/maps/estate-hub.webp",
+      "size": 274918,
+      "sha256": "b06411e8dc57bfccf46439af9770547328daf6a61940a5dbad92fc6157ef790c"
+    },
+    {
+      "path": "assets/backgrounds/maps/ferry.jpg",
+      "size": 196597,
+      "sha256": "0c5971ad7e3b6c7d68414660d26105113ffd5c6377832c057f39fd9d408ccacc"
+    },
+    {
+      "path": "assets/backgrounds/maps/ferry.webp",
+      "size": 209974,
+      "sha256": "5d04609c821e74477399db3dfb24176f6b3f6d176983d33173e7d16dbed8d4f6"
+    },
+    {
+      "path": "assets/backgrounds/maps/garden-map.jpg",
+      "size": 285815,
+      "sha256": "20329e6e32cda509ff5bff7250b167cc6af236bdfa80fb85816ba06fd6ef1079"
+    },
+    {
+      "path": "assets/backgrounds/maps/garden-map.webp",
+      "size": 311110,
+      "sha256": "2fdb9551b5e67f9a3db3f8a01c0509333302419271adfe4675eb51e4c054ec4f"
+    },
+    {
+      "path": "assets/backgrounds/maps/market.jpg",
+      "size": 253260,
+      "sha256": "ef2a646feda1dd0473b408b4389a4f551bbf7cef81cc7c975dc73132b1710a49"
+    },
+    {
+      "path": "assets/backgrounds/maps/market.webp",
+      "size": 279090,
+      "sha256": "6c61dde5a905acbba3b4b21f292d6a986914c8c2814e61c00d05cebbd9fcc928"
+    },
+    {
+      "path": "assets/backgrounds/maps/martial.jpg",
+      "size": 193550,
+      "sha256": "bbcc5949547ef83627eca6b2f446d9e7917f349a5aa2983f5adc2c1ae7daa7f6"
+    },
+    {
+      "path": "assets/backgrounds/maps/martial.webp",
+      "size": 201264,
+      "sha256": "51ebf2b87e5e6b869e8ffa96b569706d65a9c0076ff94d53a104d038dcf62125"
+    },
+    {
+      "path": "assets/backgrounds/maps/wilderness.jpg",
+      "size": 193621,
+      "sha256": "da7df22a19cba3bdfbe7b809220f541b42be80776f3eeb3dac4272adc9c5fbff"
+    },
+    {
+      "path": "assets/backgrounds/maps/wilderness.webp",
+      "size": 214964,
+      "sha256": "6bfdba59e34488de602de91e9ae1664171deaeb8d89967171a74e13fde3700df"
+    },
+    {
+      "path": "assets/backgrounds/opening-story.jpg",
+      "size": 120601,
+      "sha256": "34ea9d55a7f96de87f71400de340867dcb77bc2928da1374561c8fc2e5201575"
+    },
+    {
+      "path": "assets/backgrounds/opening-story.webp",
+      "size": 118426,
+      "sha256": "f55fc1f564a04de1ce85c063a5cd8a43330d152183f543756332880170a38dd2"
+    },
+    {
+      "path": "assets/FamilyScene-BHVcfFqy.js",
+      "size": 546975,
+      "sha256": "d9017d436f51ce584fef4938fd25e1fa429e7762a321dd6888a4657f6f8824a2"
+    },
+    {
+      "path": "assets/FamilyScene-legacy-Bz1l3YfX.js",
+      "size": 594158,
+      "sha256": "1d2fc72f0f83dabd7ec00f64eff39ea972b70e6acac5c107ac24b1a36b4bf219"
+    },
+    {
+      "path": "assets/icons/court/faction-01.png",
+      "size": 21734,
+      "sha256": "f797d51f595080a909b7b49c358b03981d17d2b81d88a42f4e18e27ed817274b"
+    },
+    {
+      "path": "assets/icons/court/faction-01.webp",
+      "size": 4916,
+      "sha256": "24bf58c1f771f8d99883a79e814714aa1a3fcc9d1146619ac54f647f3c0ca59f"
+    },
+    {
+      "path": "assets/icons/court/faction-02.png",
+      "size": 20526,
+      "sha256": "6023572e5535b64bbbe0eca9a87309831de010556911f6b6cb6f898eb67eee64"
+    },
+    {
+      "path": "assets/icons/court/faction-02.webp",
+      "size": 4508,
+      "sha256": "b7dfea734d3848a9648d48b199da187d4d857b444e8e3fa7e57eb725dc4c97f1"
+    },
+    {
+      "path": "assets/icons/court/faction-03.png",
+      "size": 22831,
+      "sha256": "9a0a4ee4e73663d5b658946761ab7664907dcc8d383c037eff6a6b6b2a4f4aaa"
+    },
+    {
+      "path": "assets/icons/court/faction-03.webp",
+      "size": 5184,
+      "sha256": "d0feb8537c999cc2d05eea1de14d1145242c2e8668ad052368f5c5fe78515592"
+    },
+    {
+      "path": "assets/icons/court/faction-04.png",
+      "size": 22647,
+      "sha256": "213b513fd3c13eccffe7311b8be68be7f5456064a7dc085abe73c3d2acca0018"
+    },
+    {
+      "path": "assets/icons/court/faction-04.webp",
+      "size": 4954,
+      "sha256": "5a13416e66b41d81dabfe52890f3e50247d1eac82dd1ca17452100bb8b4884e8"
+    },
+    {
+      "path": "assets/icons/court/faction-05.png",
+      "size": 22368,
+      "sha256": "5e1bef987939aba3abe65d982ac700b7e285b71cfcb9667e5ad48c681763e899"
+    },
+    {
+      "path": "assets/icons/court/faction-05.webp",
+      "size": 4928,
+      "sha256": "41226f12deed209ae230d92b8632927988acf3671db39f30e1d0c3b4027f4134"
+    },
+    {
+      "path": "assets/icons/court/faction-06.png",
+      "size": 23675,
+      "sha256": "b04ef922a0f2fc86a841a4291a44937c88a97fd91ef2afd87d3a229b92a1484e"
+    },
+    {
+      "path": "assets/icons/court/faction-06.webp",
+      "size": 5078,
+      "sha256": "360c34cdd9266bac7ed2b7d044590483b20acfff92f8f217a596bd47667529a5"
+    },
+    {
+      "path": "assets/icons/court/office-01.png",
+      "size": 19506,
+      "sha256": "26ed2426253cef215787cc1390e82f4dec47b4deabc97f3e3375cc52ab0dfd40"
+    },
+    {
+      "path": "assets/icons/court/office-01.webp",
+      "size": 4054,
+      "sha256": "1c118d24017254d59dca9316dccb9aa829a93dc156d801649058b0d7ee4d462a"
+    },
+    {
+      "path": "assets/icons/court/office-02.png",
+      "size": 20924,
+      "sha256": "11a4f0bc405568f511433d01ce367e0496730c7fd1d09ac467490f5a0616d576"
+    },
+    {
+      "path": "assets/icons/court/office-02.webp",
+      "size": 4028,
+      "sha256": "11f99a8e7157db1a288d6db53a76a3e8887b27837b2b8b194af3a7b9c1422264"
+    },
+    {
+      "path": "assets/icons/court/office-03.png",
+      "size": 20644,
+      "sha256": "4b486f110ae1213f35f4390b963729715c32b19f408391a47ab486f99d873626"
+    },
+    {
+      "path": "assets/icons/court/office-03.webp",
+      "size": 4008,
+      "sha256": "6ed0e3c0a4ca6f561b2857cfae2ca1e1d78f85e27c64bbd37730a6298011cea2"
+    },
+    {
+      "path": "assets/icons/court/office-04.png",
+      "size": 20978,
+      "sha256": "1aceb3f02b8b71789787e7deac5e1af33c89f4126b014f3be3b9d713771c9599"
+    },
+    {
+      "path": "assets/icons/court/office-04.webp",
+      "size": 4200,
+      "sha256": "8da56f71d5bae907d1e6382b70ab6bbc8f7278ff95b914a931ea18dd01d15707"
+    },
+    {
+      "path": "assets/icons/court/office-05.png",
+      "size": 18738,
+      "sha256": "3c180724a09ebc82b8a892188666570ca429bdffaee5166b5c6721be6f32901f"
+    },
+    {
+      "path": "assets/icons/court/office-05.webp",
+      "size": 3808,
+      "sha256": "e370f27512823690f310f88bdbb355b0e82c3cafc0b6ef2cb5d8c3757b6b7131"
+    },
+    {
+      "path": "assets/icons/court/office-06.png",
+      "size": 21217,
+      "sha256": "0b3b413809c9815a02728c9f17d08fe7910319451f0f2e52726f213e00dfe9c3"
+    },
+    {
+      "path": "assets/icons/court/office-06.webp",
+      "size": 3886,
+      "sha256": "2aa2f27766e8596a123e7a85b7e642a2d66d4f53aae01b8b5ca5d1c57ddf2344"
+    },
+    {
+      "path": "assets/icons/court/office-07.png",
+      "size": 19428,
+      "sha256": "75ec3870ff631f4cb2a93952d2748662868fc1dc0885d293162ba1a84709759d"
+    },
+    {
+      "path": "assets/icons/court/office-07.webp",
+      "size": 3524,
+      "sha256": "bf42bc59e5952f47bd52b265a443fd13d6dc6a9b124ca791a0864dc32339db34"
+    },
+    {
+      "path": "assets/icons/court/office-08.png",
+      "size": 19005,
+      "sha256": "9dc4ad20fcc273d4896241496f4aee97478aa244723b29af828514c9eea84065"
+    },
+    {
+      "path": "assets/icons/court/office-08.webp",
+      "size": 3938,
+      "sha256": "a156e3041ff3f290333768e7f149c4e477052d75358af1b6aab221d8c9bdba99"
+    },
+    {
+      "path": "assets/icons/court/office-09.png",
+      "size": 19824,
+      "sha256": "b280aa63e8040476c503cedc5ba838166952ee927c0940065054deb12cf207f1"
+    },
+    {
+      "path": "assets/icons/court/office-09.webp",
+      "size": 3430,
+      "sha256": "02ac800894e5086720fbdb16704ce888146abd3fd367f06116e772e3cdcdd163"
+    },
+    {
+      "path": "assets/icons/court/office-10.png",
+      "size": 21211,
+      "sha256": "25c8520b551887cc0db0c51a8063b47d0841eac1b9894669b32b47f86318bc8f"
+    },
+    {
+      "path": "assets/icons/court/office-10.webp",
+      "size": 3948,
+      "sha256": "029ec8b495cd946d7be53ae52d807eec5f296dcd490d66e4136f312c97a7037b"
+    },
+    {
+      "path": "assets/icons/court/status-01.png",
+      "size": 13752,
+      "sha256": "ab9d8076f6d0a1d530c73cfc299bd0f1805d435fd274e22c8836e7b2bb86b767"
+    },
+    {
+      "path": "assets/icons/court/status-01.webp",
+      "size": 3430,
+      "sha256": "bbc3bcc7fcaa55a10a64458517e6e97a5537301e232ff8d750de7edb746fff24"
+    },
+    {
+      "path": "assets/icons/court/status-02.png",
+      "size": 11794,
+      "sha256": "ab4db6a39babe41e78b5367d2e34231b3b2d86205c802e0f0d6deaa182f9b230"
+    },
+    {
+      "path": "assets/icons/court/status-02.webp",
+      "size": 4032,
+      "sha256": "7f533b86bd3687c7610af15209f06f209af3244f4afec0b3ffaa1c4594166f95"
+    },
+    {
+      "path": "assets/icons/court/status-03.png",
+      "size": 14276,
+      "sha256": "a1ef7162d4a2c5c9b62fd3aea4448da21e87d42ac0d139e0e17e2960f4a0f6e5"
+    },
+    {
+      "path": "assets/icons/court/status-03.webp",
+      "size": 3760,
+      "sha256": "cbd42bd00919f3c812b55c87be18fec61eb1dc115db44689a2e4183685d1ac24"
+    },
+    {
+      "path": "assets/icons/court/status-04.png",
+      "size": 14028,
+      "sha256": "181f858a33261bc13baba118ee264e627e28542b32c3f250b29f3ab0e41f5a42"
+    },
+    {
+      "path": "assets/icons/court/status-04.webp",
+      "size": 3402,
+      "sha256": "c552be9fe7ac41fb001e92687b311e0c8817ae1be445b0f93d31d8cbc7a677b4"
+    },
+    {
+      "path": "assets/icons/court/status-05.png",
+      "size": 16599,
+      "sha256": "da9cb4315dd44c77d58c03a9372f2aee66742da9bf90dc3ada9122d085d14d20"
+    },
+    {
+      "path": "assets/icons/court/status-05.webp",
+      "size": 4014,
+      "sha256": "a3a5dbad2ed126e6f20819c7e14969005a411362e295f7a0323ecbf4083943ae"
+    },
+    {
+      "path": "assets/icons/court/status-06.png",
+      "size": 14857,
+      "sha256": "d8df6279a8aabda977d8a8a9746fdae4096660696b51f063c34bc8e5a2b6bbe9"
+    },
+    {
+      "path": "assets/icons/court/status-06.webp",
+      "size": 2898,
+      "sha256": "cdef4a967c2046f253393c9fdeaf932e95f4fca0dfe6d611f860af848ff72b84"
+    },
+    {
+      "path": "assets/icons/court/status-07.png",
+      "size": 3669,
+      "sha256": "cb9c5e2243d59f7e843273d9b9db621051487b2c5e5158f3d5fbf775a5c5f764"
+    },
+    {
+      "path": "assets/icons/court/status-07.webp",
+      "size": 1174,
+      "sha256": "d5a00f1ddbbacc42603bd33a0b1dec5adc972f3875e6e06b01f54664a12e785e"
+    },
+    {
+      "path": "assets/icons/court/status-08.png",
+      "size": 16394,
+      "sha256": "c312d1fc7b51a728376326317b6986eeb81ce6cf0108898a2d81dab0855f916e"
+    },
+    {
+      "path": "assets/icons/court/status-08.webp",
+      "size": 3836,
+      "sha256": "a5246ee6b88ea45e60234c5eb89e55632790cab42d6724945b0985d9d1491533"
+    },
+    {
+      "path": "assets/icons/icon-medicine.png",
+      "size": 14675,
+      "sha256": "f82ed33e65b2fdd440c21189bfda8d4b9da9de6c6fc9089b4937106b8b62bc17"
+    },
+    {
+      "path": "assets/icons/icon-medicine.webp",
+      "size": 3318,
+      "sha256": "fe873483a55661eafdb1a29ff24a030c518fa6339ca7e008a7d5c5c1530dbafa"
+    },
+    {
+      "path": "assets/icons/icon-treasure.png",
+      "size": 12688,
+      "sha256": "db8c9249c6d19a2dcd7dfcfc2a9df22cefb24bc9ff82bb3d0d73944aea48781a"
+    },
+    {
+      "path": "assets/icons/icon-treasure.webp",
+      "size": 3006,
+      "sha256": "9d401bdbf3945970f1a721a707b5ee46f914f804b316f5a5675337a780ad8a58"
+    },
+    {
+      "path": "assets/icons/industry-clinic.png",
+      "size": 16412,
+      "sha256": "b8298f6c815ce790c225147b4e12a4c3278e360d8e815fb4e7674a2a61fc339b"
+    },
+    {
+      "path": "assets/icons/industry-clinic.webp",
+      "size": 4142,
+      "sha256": "01fa1d0dfbf8308f18ca69368e57e870464c1aa1b6e596cec8119853c8a87ae6"
+    },
+    {
+      "path": "assets/icons/industry-farm.png",
+      "size": 20460,
+      "sha256": "4a2eb43e12d3fe226a2d892da9185a3fbeb61f566ec709e8bee26fb8723f6af9"
+    },
+    {
+      "path": "assets/icons/industry-farm.webp",
+      "size": 5016,
+      "sha256": "7d38f5afa8d7e8c1345002d56779597991d70de786b4856403190f89b7dc085c"
+    },
+    {
+      "path": "assets/icons/industry-granary.png",
+      "size": 17395,
+      "sha256": "6fa0913a00fc4d3a9cceaa985f98d100c32835bfde02dff1bc308a1f235f99ec"
+    },
+    {
+      "path": "assets/icons/industry-granary.webp",
+      "size": 4322,
+      "sha256": "eeaa6b6662ece97406d90635bfc2d28488952e945f20ea50776b592b1b631f18"
+    },
+    {
+      "path": "assets/icons/industry-martial.png",
+      "size": 16434,
+      "sha256": "3a607353c98ed87a664d4c97c2d98100e5489d2fdac56a35ba9c3a865524e6c7"
+    },
+    {
+      "path": "assets/icons/industry-martial.webp",
+      "size": 4226,
+      "sha256": "2891d35556daf51f3fc908c69dfbc01843766cde52972c019df03a035a4d86d0"
+    },
+    {
+      "path": "assets/icons/industry-school.png",
+      "size": 14699,
+      "sha256": "41eecff8956ff52ad8a831a1dc7187f83e2b975b3d7805b51684ab518ce0ee44"
+    },
+    {
+      "path": "assets/icons/industry-school.webp",
+      "size": 4016,
+      "sha256": "9d9d153efb3dc495b4c90a1e46a155ecd4341d44dd46bf7b79311d6ac55c7f72"
+    },
+    {
+      "path": "assets/icons/industry-shop.png",
+      "size": 19209,
+      "sha256": "5d2b52ca9ae3aacf238ace2ec48e550dc9374550cb79bf73f808c98f4e1e4799"
+    },
+    {
+      "path": "assets/icons/industry-shop.webp",
+      "size": 5094,
+      "sha256": "e93020aef48b44a0652b4508b3f0eaf57c12965941646b8a1018ee747197fa55"
+    },
+    {
+      "path": "assets/icons/industry-tavern.png",
+      "size": 14654,
+      "sha256": "fa0fa0964e9ab3203f666a9a3e32aea75e9b457f5ad613530efe0c0a51f08e44"
+    },
+    {
+      "path": "assets/icons/industry-tavern.webp",
+      "size": 3748,
+      "sha256": "3fd06f75f1a639014130bf86638eb260ac953fdf1b3727b0fa790f6fe0f0a14e"
+    },
+    {
+      "path": "assets/icons/resource-coin.png",
+      "size": 39630,
+      "sha256": "839d69f4cf63b86a9c35194d92e375a96ec5bac4f698f78c9fa981088cc5b365"
+    },
+    {
+      "path": "assets/icons/resource-coin.webp",
+      "size": 12744,
+      "sha256": "f5528966db330a793b2ede435f9298d98f151187a297c07800b45fdf32296c37"
+    },
+    {
+      "path": "assets/icons/resource-jade.png",
+      "size": 24471,
+      "sha256": "ed59a36aef151222747aabab2321c8813330b86de7344c9c8636735e84e2c177"
+    },
+    {
+      "path": "assets/icons/resource-jade.webp",
+      "size": 7710,
+      "sha256": "d0c727cdc88be0a67a5932a8aafa11b2d6b1d1ad7981d94a9847f83565df4146"
+    },
+    {
+      "path": "assets/icons/resource-seal.png",
+      "size": 32367,
+      "sha256": "ded107f3bb68a85dbab55114136cbacaff6b4d0251f51aafd164c8bdc94f3d58"
+    },
+    {
+      "path": "assets/icons/resource-seal.webp",
+      "size": 11456,
+      "sha256": "84c9ac5219871bf788bea4879c88a7b27af44b92a5a36b93e1d2903587ba6de9"
+    },
+    {
+      "path": "assets/index-Ban2q_tZ.js",
+      "size": 7356,
+      "sha256": "bff063fb4773ffd794ef72d793e233f890d69253131cc25a0e70aa2eb287985f"
+    },
+    {
+      "path": "assets/index-CBW9MXtD.css",
+      "size": 1400,
+      "sha256": "366336a7191309e81861705fc0dc264b85f51b917166eecef84480dd4e22efde"
+    },
+    {
+      "path": "assets/index-legacy-BOwVZ0S-.js",
+      "size": 13343,
+      "sha256": "923c4665d3072e6b3a67fd41d11e111ee3912fe9c60afa69b36b5f333fd88110"
+    },
+    {
+      "path": "assets/phaser-BHS2mbq2.js",
+      "size": 1208612,
+      "sha256": "9f4b451f5132ce595d82a5d9b58058626d7f7065e0727faafb1018a3784669fe"
+    },
+    {
+      "path": "assets/phaser-legacy-BDp8tWMW.js",
+      "size": 1450124,
+      "sha256": "8b03f3a9cd64972c675eca8a885700776e2ca64c859e4c1f1ce25cb2b1993dda"
+    },
+    {
+      "path": "assets/polyfills-legacy-CNTqAzIh.js",
+      "size": 172265,
+      "sha256": "ced4b76d3843f1f414670cff692ce90c9f75683c7d4eea62fe73bcc0ee321186"
+    },
+    {
+      "path": "assets/portraits/avatar-boy.png",
+      "size": 42494,
+      "sha256": "9d47c854df24bd5232a38cd02333ba45962d51fda6739b0f0f4310185bcb2152"
+    },
+    {
+      "path": "assets/portraits/avatar-boy.webp",
+      "size": 6818,
+      "sha256": "51ce9a0614261d50f74236f57efdd591b562fb4b6a8cc3429d99b922c4394ec7"
+    },
+    {
+      "path": "assets/portraits/avatar-elder-female.png",
+      "size": 45437,
+      "sha256": "f74ee01bcbd9d73d75f0e60658f3b9694466738d43efb7d7c71e5cd82f789a52"
+    },
+    {
+      "path": "assets/portraits/avatar-elder-female.webp",
+      "size": 8226,
+      "sha256": "bb149e7a82c26e505ea3eedc2c92582b3051076b9b117d61de5114c40d0104fe"
+    },
+    {
+      "path": "assets/portraits/avatar-elder-male.png",
+      "size": 41799,
+      "sha256": "6a4c9c1174697566830b368a8bccd90f228c88eea4457d96fd11236402112a1d"
+    },
+    {
+      "path": "assets/portraits/avatar-elder-male.webp",
+      "size": 7614,
+      "sha256": "0a0ddb6c8aca4d4e20daff19b195bfe6b8ea2500b36f73f2bc8f63d8a4823cdb"
+    },
+    {
+      "path": "assets/portraits/avatar-girl.png",
+      "size": 46200,
+      "sha256": "da9ac9cb8a199503b15265165df170ed098802c72e26308b8d4d24d0b2832d0e"
+    },
+    {
+      "path": "assets/portraits/avatar-girl.webp",
+      "size": 7550,
+      "sha256": "6e58969b0f95c9af6d38195df637ba41188176be320060415c7b178d3e1e9b7d"
+    },
+    {
+      "path": "assets/portraits/avatar-lady.png",
+      "size": 36658,
+      "sha256": "97fb92624b4672998247b3f1eba13183c66fb03fad3a6f66fd119c8227aa46bc"
+    },
+    {
+      "path": "assets/portraits/avatar-lady.webp",
+      "size": 6030,
+      "sha256": "f14d6864f12eebe3f9eec8a6ea7ac36e69f2f52f1b23cfc70dfc420c7ea057a6"
+    },
+    {
+      "path": "assets/portraits/avatar-palace.png",
+      "size": 47188,
+      "sha256": "5cae91690fcb9420280940273b1051f1f774a765fb922673ba14617772a86a61"
+    },
+    {
+      "path": "assets/portraits/avatar-palace.webp",
+      "size": 8828,
+      "sha256": "bcd522c108fcc8d90e79c8c7ef9150785408cf6b167e1de8f8e9a267922d990d"
+    },
+    {
+      "path": "assets/portraits/avatar-scholar.png",
+      "size": 36407,
+      "sha256": "c5fafb57da5190b0ae978b8fa548daeb03eb85689492f70c7063a77dab23510f"
+    },
+    {
+      "path": "assets/portraits/avatar-scholar.webp",
+      "size": 6524,
+      "sha256": "567acf2dabef825891f440f450587a75701cec218f524c8ec83127c3d118bc04"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-1.png",
+      "size": 42854,
+      "sha256": "d9a9bc9e53d8d405d3ea9942fbbcc2a2a40d61541fc3b45cb99312dbf703db0f"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-1.webp",
+      "size": 6992,
+      "sha256": "80c3d941ef331a513da204a51d26202c9b53c2a2b84d62e823414581346368eb"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-2.png",
+      "size": 37644,
+      "sha256": "a6184123bc49b0d9f514842ee3ce4160c103e21471da2a0f78dae90a5ade1c08"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-2.webp",
+      "size": 6146,
+      "sha256": "525835cf4ffe98365647e0b62b41a56997518413d6a8c8b5a0cee0322aa372d3"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-3.png",
+      "size": 38210,
+      "sha256": "978ef9c2d0482186c192fec5053908211c563c6d39a3264bbaec2db00b8671bf"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-3.webp",
+      "size": 6670,
+      "sha256": "d583d549075569d525f85ddf0bdd899d73b6dbf705d6169ec4a61e4c57328615"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-4.png",
+      "size": 35487,
+      "sha256": "edebdb0d27789d5b0a75d23c3a1c78dadee3154a2aa2f855751eb22d05e7026c"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-4.webp",
+      "size": 5804,
+      "sha256": "3b9cca659487bdcc4ba02d44523775aa593422192f4aea6f01247e7c8499c6c6"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-5.png",
+      "size": 48885,
+      "sha256": "7959089e4cfb4fee3ff2538b4580588bdb659244fe1dc84ad1bc63d159b0cc6f"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-5.webp",
+      "size": 8576,
+      "sha256": "8017f265df7368d789ac2d46f31feba7128ae445c7610c8dc94043cd4d552649"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-6.png",
+      "size": 44545,
+      "sha256": "0dc79471bec40552af1d91dadbee200db16270f84f67e2ea4ff7c1e9514f6b5a"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-6.webp",
+      "size": 7134,
+      "sha256": "bdcb92b17776bfadb64b865a850b24c8fb7e600604ac2aec69a15f78a68ea1a5"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-7.png",
+      "size": 37710,
+      "sha256": "9ee935e485b21be482544a65dc4a56471e199631a8a626b496c3b3e55cb9dbfc"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-7.webp",
+      "size": 6174,
+      "sha256": "0addcff86b82800e2ea509ff47f4db6908c9e52dcd40dcd070a14b13aff96232"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-8.png",
+      "size": 39168,
+      "sha256": "b7f1ef65ba7421c9921dbef88c17249b2d007ee58d7a62517e36cce32b624594"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-female-8.webp",
+      "size": 6564,
+      "sha256": "e1649a4e64a9ea46d88a15f6e9ba5f835b35f625b92033d7a7487d3323d4efbf"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-male-1.png",
+      "size": 34692,
+      "sha256": "c2fef52fbee8dd8ae4a2d47dcbad2e0946cd3d9b30ed4e35c7211edaecaec40e"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-male-1.webp",
+      "size": 6000,
+      "sha256": "3bbf45971de9c49c33fc98914d093d1fcd0291366433a598e3fa24778fdbd415"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-male-2.png",
+      "size": 37705,
+      "sha256": "d5f9003a2c7f976d9a5cbbb456a5111a45672c91d75b6e4e1535f1392bdfc7c4"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-male-2.webp",
+      "size": 6484,
+      "sha256": "4b0c8c3638bd1a59b0781e4f2ab97588555bf9a9c2175f0ef84bb45ff66585ea"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-male-3.png",
+      "size": 36993,
+      "sha256": "651dad9134d586b0e84fe47abb7141ae148e641ed8c1e4d87e327c0357cf6e33"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-male-3.webp",
+      "size": 6418,
+      "sha256": "e47ad6f88451b798252224f44d8bc69b8ce366f667c8e2b37a3bdf41ff30d648"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-male-4.png",
+      "size": 33930,
+      "sha256": "76dc4146f4a643505feb59be7650b7dc623aed08e2e56e7b9450c2452a17e6a1"
+    },
+    {
+      "path": "assets/portraits/avatar-spouse-male-4.webp",
+      "size": 5834,
+      "sha256": "9d833938a73629b46c3adba35eb997f50b6cd58c44973c828aafa58c1437b62d"
+    },
+    {
+      "path": "assets/portraits/avatar-warrior.png",
+      "size": 40349,
+      "sha256": "9f2dc6829f0868842ab9ec35ed154772c120ea30822d90f0fda20811e00af375"
+    },
+    {
+      "path": "assets/portraits/avatar-warrior.webp",
+      "size": 6924,
+      "sha256": "14bce4a1d5f2fd320391deff4e24daebb8d37f817c7d40f827e644431e513c32"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-boy.png",
+      "size": 269492,
+      "sha256": "597b77dcd21bf852e2b26b239642d714a83b504a0b803f8e51eb36e248531eaa"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-boy.webp",
+      "size": 43752,
+      "sha256": "959c5452d7967ea52a834264a6db8875b8671ee453562468c81e07f37fde33a9"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-boatman.png",
+      "size": 107031,
+      "sha256": "2b0c3d593789088e9e2777ef2bb57559d868e269b6d4ab95ced3fd1c345aed55"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-boatman.webp",
+      "size": 17938,
+      "sha256": "850c18c964e88eb3c68e360a113659e780d132004bd84d2da0a6c69b7ded6d0b"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-daoist.png",
+      "size": 97201,
+      "sha256": "a3bb0305eded235ce5c8b6f7a1a18111ee75c0aeb12411cfd4f0551083ecb761"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-daoist.webp",
+      "size": 18546,
+      "sha256": "37de4c9b2fa58ddfd395f1d5ca234a0d8f825db011d31cb9da77d472cb2b3e7d"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-escort.png",
+      "size": 123078,
+      "sha256": "9a44fe02dfad6c28b791f39eb0eacf7666daffc9a1b07c7679a15145313ca5bf"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-escort.webp",
+      "size": 22230,
+      "sha256": "4602ea842dd67a49d9fc45d33f540f00c6512c849ebaf8515dcf4e8d931dce70"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-flood.png",
+      "size": 108266,
+      "sha256": "69d3082e41f983a1b73afd579c7ef78da6c79d88136d8f28f554a9cf45311966"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-flood.webp",
+      "size": 18178,
+      "sha256": "a421a3c91256e0baa9e7d1e5306f40664faad3872d6bb9076bcbd4f491d08e92"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-healer.png",
+      "size": 106911,
+      "sha256": "9d801acbc05b9ead68744c2c8aa1f88eb54e2c234e75fd570523e51b86b919ff"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-healer.webp",
+      "size": 20066,
+      "sha256": "2d36824662a613826608047d80376dea4516eb9b7488b223d9da187834f5a1c2"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-herb.png",
+      "size": 139219,
+      "sha256": "fc14839759c5e76f4294aed89f4028173372a41b3247d2e44922425db0ea76aa"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-herb.webp",
+      "size": 29082,
+      "sha256": "fe38be29e40efd86bc9efc26ab7b20ef5e321ae4f7f674fc437fcd546c379d72"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-lotus.png",
+      "size": 109398,
+      "sha256": "67bdc90dba3109b065adae7f2214f18046c4f3b16beed8afee41afa3263ff4ea"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-lotus.webp",
+      "size": 16886,
+      "sha256": "2e136e5a49e9d2df23cd15c7b78bf8d5f1cbb8129712679eb202e9d3530f4176"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-merchant.png",
+      "size": 122939,
+      "sha256": "981c1e849c44d057e36e21043b2ba60f738ec71594232135403acef368238ed3"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-merchant.webp",
+      "size": 22476,
+      "sha256": "b20be4b9e0b2d472a48ad639e04ecc1d55855a7ab065b25c84d7213a8a511f77"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-mourning.png",
+      "size": 110613,
+      "sha256": "36298b4c1c6d1da6ba7295e8c6de52ec1de6188a2b28ddd6c0966940a27b38a6"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-mourning.webp",
+      "size": 30070,
+      "sha256": "8e977fd6041ae0fc7fa320abcb89bb18b3930e2664fc8f27e82b8141cba87bb8"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-noble-lady.png",
+      "size": 110220,
+      "sha256": "f42b850976ef1facd8109d0796bf771f4849e4e67eef2c5bba420b5ae13fe25e"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-noble-lady.webp",
+      "size": 17080,
+      "sha256": "345d2e6a2b7e276815ba18f5672328cf9060f1bcc0feeb4b2e66f387d414a19e"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-opera.png",
+      "size": 124168,
+      "sha256": "5fb093c4f2c86291044835301c223135f688062155cee48c54688807a1dc98e6"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-opera.webp",
+      "size": 20658,
+      "sha256": "fc88e3888627240208ebaa95594fdbe55d70466db05ac5ed2fa4101c077c915f"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-ransom.png",
+      "size": 88181,
+      "sha256": "10eb81c3d0df87013d7a8f270f50d996502e793adc6436ab54cf7656cb8f670d"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-ransom.webp",
+      "size": 15774,
+      "sha256": "3482ad3b012235d714359c068b5e8bd1ed68cae233fe7b84ffae2ee278168813"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-swordswoman.png",
+      "size": 129549,
+      "sha256": "f7c185b3a7dd20f8db01d630f61215378402597a2128dcadc13e8d311aea4620"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-swordswoman.webp",
+      "size": 29502,
+      "sha256": "024832c6b9ccc8042d30ab667e173a9bafb1e8404b4ab718b707d36ab299f18b"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-tavern.png",
+      "size": 118560,
+      "sha256": "c72e5d45cf7eaeb16528bf037abffefd54b56d80f8ce3326e8ff67ded099e102"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-tavern.webp",
+      "size": 19562,
+      "sha256": "284418f1373d62d31d8d7337499c03ed0681f0fabbeb0d1fe41547e14d73a27c"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-tea.png",
+      "size": 110275,
+      "sha256": "5b27ef7964b7795b719eff5c496552d32ad14844a34bcdfd2817c37c8fa0f8b2"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-tea.webp",
+      "size": 20848,
+      "sha256": "511491b7c3b62f84a5120363b29d2c33170c647cfe775755b9c0d49f10cc28fb"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-washer.png",
+      "size": 100621,
+      "sha256": "b76454678c9153028e8df1b8cb1bc5f6c0a7f287b9d0a91fda0c64f8d93f753b"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-concubine-washer.webp",
+      "size": 26692,
+      "sha256": "1f52667a29d9f129d585c59f8b5742e24c746b3ac2968292a532ca81cafede00"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-elder-female.png",
+      "size": 287190,
+      "sha256": "e6ed656e93b253cf48791b3866553be0863d6aa0d60c299046120ec19ef966e9"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-elder-female.webp",
+      "size": 47474,
+      "sha256": "1b489d269c7d69c90d47fc1b4632c6ff0d5817d66f30bec67de09f40f0791864"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-elder-male.png",
+      "size": 251290,
+      "sha256": "2e06a179dfc1a63f63eee06af782ed6e274905c27d9c328a7c6cf056468753a6"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-elder-male.webp",
+      "size": 43552,
+      "sha256": "f8e53aae00d43da50dfa37b403404bd6ecbd0d03f39f38a1a239d1c8b8accf47"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-girl.png",
+      "size": 307147,
+      "sha256": "f28485c1bf5ebf0a1021440cc53b23ac0695b00f5f76549cc86016ed9f331710"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-girl.webp",
+      "size": 51386,
+      "sha256": "f2cacd4c2487c287801c850dc1f1195f20b71a60ee21fd11124849a21e706ced"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-lady.png",
+      "size": 258462,
+      "sha256": "56ed2a8ea13a17037c78abea12a15c78da0144a3552251b2b3ab20a4089d5127"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-lady.webp",
+      "size": 38870,
+      "sha256": "6649a07962742751988f6bb779022e161bb351c08468274400f3caf56a7f9c2c"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-palace.png",
+      "size": 315498,
+      "sha256": "64c96f53f9698d88aa39c6eb41dae974016a009c28ec9e824f77bae6775a0706"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-palace.webp",
+      "size": 53562,
+      "sha256": "ad4c97416cb07d8e9ac3ae7322077225ecb63cef7e8dfc3588994b713d2f2a23"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-scholar.png",
+      "size": 243663,
+      "sha256": "caf7aa186121f6e27ee47d42209fb59e428fe0c26e50cdba75786fdf03112433"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-scholar.webp",
+      "size": 38100,
+      "sha256": "563f1bd9f1d0869b6732746f23822e1dad74de8979bd4ebd2b77b503cf336223"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-warrior.png",
+      "size": 293288,
+      "sha256": "29828c5900c3d54a3e62c8b709dec3c22eca91cf16018ab65d19734e54998ce0"
+    },
+    {
+      "path": "assets/portraits/cutout/portrait-warrior.webp",
+      "size": 47158,
+      "sha256": "b6503ac20165f53d7caeeaa78fa28a8eebed21d58fd5e5a6ffc0c9d8111b1675"
+    },
+    {
+      "path": "assets/portraits/npc/bai-zhi.png",
+      "size": 84268,
+      "sha256": "ac92fc56a720e8f3468cc5b53bd70ec2bc10b3bc2f5aeaf97c2921bb07d8472b"
+    },
+    {
+      "path": "assets/portraits/npc/bai-zhi.webp",
+      "size": 21976,
+      "sha256": "d5ffeb538206ec55ebd2d7901df6efb6d18fc1fdaf6d238bc7b00beba802b124"
+    },
+    {
+      "path": "assets/portraits/npc/court-secretary.png",
+      "size": 80385,
+      "sha256": "bfbdbd68886709754b2f93fc730fa8703e9d035fed95fb338dc3b4a5719ffacf"
+    },
+    {
+      "path": "assets/portraits/npc/court-secretary.webp",
+      "size": 15324,
+      "sha256": "f6d84902bc598dc103e4e7cacc7b27765aeae34b022931e240cc07a2f7759320"
+    },
+    {
+      "path": "assets/portraits/npc/ji-heng.png",
+      "size": 86706,
+      "sha256": "b89847c9dd28e1dbfd7db68e4d6d5b05d9248cf6f3ed6662417cede102154d07"
+    },
+    {
+      "path": "assets/portraits/npc/ji-heng.webp",
+      "size": 15630,
+      "sha256": "680b640eaeb9d56b8e20835134601d09bc073960a29e16d450278a69f5139195"
+    },
+    {
+      "path": "assets/portraits/npc/lu-jiu.png",
+      "size": 102522,
+      "sha256": "9f19df157cdcc6b00bd63cd0e25bb0b0c8b1a5d0a8ece462d1ce12fa86dbbb1d"
+    },
+    {
+      "path": "assets/portraits/npc/lu-jiu.webp",
+      "size": 19096,
+      "sha256": "5ae88a4f3d6967b5220e5c0888f97d918a3722619d3eca17ee0b8063cf640c13"
+    },
+    {
+      "path": "assets/portraits/npc/mansion-manager.png",
+      "size": 82300,
+      "sha256": "cc27dc4d1d33079a89bf594701bf4a8d21b50479d42be5e8eca0530dbc7d68a8"
+    },
+    {
+      "path": "assets/portraits/npc/mansion-manager.webp",
+      "size": 15176,
+      "sha256": "834ca3a1236cc35ee0247a857edaa5ef840f1f6000a2da401d7de7ea2fafe6ae"
+    },
+    {
+      "path": "assets/portraits/npc/shen-shouli.png",
+      "size": 91384,
+      "sha256": "b09292357475127bd23803d9d271f3ab8c286dc742a67991ac5fa6694a1875d7"
+    },
+    {
+      "path": "assets/portraits/npc/shen-shouli.webp",
+      "size": 16348,
+      "sha256": "4bea18728699db699087aba852b9fa638adb2391f67aad4cdc56e6743d9adf2e"
+    },
+    {
+      "path": "assets/portraits/npc/su-wen.png",
+      "size": 113631,
+      "sha256": "d25648f2b13e127421c747ef4207a876d9077f2d3fba0364ae77bad89f84b488"
+    },
+    {
+      "path": "assets/portraits/npc/su-wen.webp",
+      "size": 21338,
+      "sha256": "a82448b7c75806270815310e82d574ee1ed1f93e55020f3d9aa7179af56c90ca"
+    },
+    {
+      "path": "assets/portraits/npc/xie-heng.png",
+      "size": 78437,
+      "sha256": "145ff38cac617771e871527ee98ee1e347064ef7c53bd106c202f8eb5508887d"
+    },
+    {
+      "path": "assets/portraits/npc/xie-heng.webp",
+      "size": 14654,
+      "sha256": "b95d12b31114d394be56fbacd04f351a4da7c284b1372b0aeff982c0388902a0"
+    },
+    {
+      "path": "assets/portraits/npc/zhou-adu.png",
+      "size": 89303,
+      "sha256": "e143f069fa803c626c9535ef897412336e64f1eadcb5e573fe0cea2db413fd36"
+    },
+    {
+      "path": "assets/portraits/npc/zhou-adu.webp",
+      "size": 17244,
+      "sha256": "91d38ab9472fc91e09c6f8b550858c44963ee4e7ad8c24854bd1591b1d0b3a0d"
+    },
+    {
+      "path": "assets/portraits/npc/zhou-xin.png",
+      "size": 95769,
+      "sha256": "84e86f31c1cc4567f9650fa9489304408035d87dc826f4c29e1a475eb39a4985"
+    },
+    {
+      "path": "assets/portraits/npc/zhou-xin.webp",
+      "size": 19702,
+      "sha256": "9fe97181bd96370ee323b2f4705eb5f2f6be0c4a62084dd9c25b8e9585f8bc9c"
+    },
+    {
+      "path": "assets/portraits/spouse-female-1.jpg",
+      "size": 26479,
+      "sha256": "06bb8ed634e5d212f7ccf2b87a4efe355b2771cb3496061a68d25f084e4e1890"
+    },
+    {
+      "path": "assets/portraits/spouse-female-1.webp",
+      "size": 20994,
+      "sha256": "0e3450f89c926973bbdfdd8fb12fb5663b906d915da07510109bdbc4a8ae3268"
+    },
+    {
+      "path": "assets/portraits/spouse-female-2.jpg",
+      "size": 23943,
+      "sha256": "adfd6aa3f60f6cf76dd6e1a45d459cc89b4327da44730e230d49e55e711873bd"
+    },
+    {
+      "path": "assets/portraits/spouse-female-2.webp",
+      "size": 18784,
+      "sha256": "ebefec086e02d4e822588fff89bf98fc7999bb66286bdad27cf7e2edaad363d3"
+    },
+    {
+      "path": "assets/portraits/spouse-female-3.jpg",
+      "size": 33512,
+      "sha256": "28507786ac2234168a230ce7fb88cbcf25056693f02c0a73a739499c0c516dbf"
+    },
+    {
+      "path": "assets/portraits/spouse-female-3.webp",
+      "size": 26868,
+      "sha256": "d32cfc903190e86197b8cb0b9df441fa2d1092ee9d9e5997472cbb1fa9e1a71f"
+    },
+    {
+      "path": "assets/portraits/spouse-female-4.jpg",
+      "size": 25737,
+      "sha256": "07ad4b097f23276cca6dee6955dcd1c7dc7ff2493aa121f4e4250675d7c14907"
+    },
+    {
+      "path": "assets/portraits/spouse-female-4.webp",
+      "size": 20456,
+      "sha256": "de9b0ec16e21d1ede60c28df9a8b4880f1305f604a4946b58a07fe503fac6ca2"
+    },
+    {
+      "path": "assets/portraits/spouse-female-5.jpg",
+      "size": 34373,
+      "sha256": "791b0fc15d7e3822bbbb23c478cd95e4fc8944d17b21e067c2b2adbc4880db8c"
+    },
+    {
+      "path": "assets/portraits/spouse-female-5.webp",
+      "size": 27386,
+      "sha256": "fb329ca7e8eee3aa859fc3e31bd46ecc6463ab4a78d75ccc75a9b233a14c4ece"
+    },
+    {
+      "path": "assets/portraits/spouse-female-6.jpg",
+      "size": 23702,
+      "sha256": "fe954dcad7d3ca86c20323fdcd4a66197cc6a7ae7b62ce08fa94fce63acbd876"
+    },
+    {
+      "path": "assets/portraits/spouse-female-6.webp",
+      "size": 17894,
+      "sha256": "297f5ae292122635767c4275542408d6a36a229d4874cf355ab8f41262fe81d3"
+    },
+    {
+      "path": "assets/portraits/spouse-female-7.jpg",
+      "size": 24417,
+      "sha256": "ca6a3bedb83f93ccab4283ea26965c4e3b206ffe559b46cdfa4e9ae0798c560e"
+    },
+    {
+      "path": "assets/portraits/spouse-female-7.webp",
+      "size": 18426,
+      "sha256": "910a0b8b2f8bfe08dcd7547dc76409f8653f3b03dd07beb715bbdc9d334484ba"
+    },
+    {
+      "path": "assets/portraits/spouse-female-8.jpg",
+      "size": 22764,
+      "sha256": "056aa45f2debbdb3f09076ea9a012ea5923d98433f7678d700e2d2a5468177fb"
+    },
+    {
+      "path": "assets/portraits/spouse-female-8.webp",
+      "size": 17168,
+      "sha256": "1750dd1f808c14a734979f8aa764d7388b41d50e3bf61757a12acfbfb8f78245"
+    },
+    {
+      "path": "assets/portraits/spouse-male-1.jpg",
+      "size": 19963,
+      "sha256": "e2130df60cfa08011834c53936588eb3f2a9be542bb13a4add1dab7bd917b341"
+    },
+    {
+      "path": "assets/portraits/spouse-male-1.webp",
+      "size": 15512,
+      "sha256": "be42e03cba1364e6cec3a3c28865717fb535ecab73d7c09bf1c0572c54411c0e"
+    },
+    {
+      "path": "assets/portraits/spouse-male-2.jpg",
+      "size": 27045,
+      "sha256": "f625ff9128d659b1353b40c3a9c41b4f6518fc613c3207c53a0bd2c3d71105f9"
+    },
+    {
+      "path": "assets/portraits/spouse-male-2.webp",
+      "size": 22058,
+      "sha256": "a5dae33b55f0fb59649dcc6fb05a00848c131d52c33485856cdf9e0de4b06586"
+    },
+    {
+      "path": "assets/portraits/spouse-male-3.jpg",
+      "size": 23920,
+      "sha256": "813e444567a0ec3dbdb2f4c55d127e455782754d6fafa2a3552c39deec5efbec"
+    },
+    {
+      "path": "assets/portraits/spouse-male-3.webp",
+      "size": 33844,
+      "sha256": "3f8c22f0f507461d907417b3c7cad1c190450025a2cc8e68369a9b31e6b8d282"
+    },
+    {
+      "path": "assets/portraits/spouse-male-4.jpg",
+      "size": 17695,
+      "sha256": "b740722f33a12c0e67f149fb763872a5e2a2a7f33bc35754989748641d7f0644"
+    },
+    {
+      "path": "assets/portraits/spouse-male-4.webp",
+      "size": 19076,
+      "sha256": "c45bbc53ed3c0ece31f1f6790cd0dc7bec8953db30ed6ea23ca5472a7839f146"
+    },
+    {
+      "path": "assets/scenes/scene-map-academy.png",
+      "size": 187739,
+      "sha256": "1c8b1515398ff8362151c8ddfc575be98879dad4eb651b943a8e54b3b07d3fda"
+    },
+    {
+      "path": "assets/scenes/scene-map-academy.webp",
+      "size": 28338,
+      "sha256": "5f3e1ea347d1399d5eea55ef2b6b0814c27bc6f79d09bd63653086116ae35bfb"
+    },
+    {
+      "path": "assets/scenes/scene-map-ancestral-hall.png",
+      "size": 150765,
+      "sha256": "4407f4c6fc9e759de5538aaf3396616cc8e22b02fb96fbb0b5daa8ed0a1a33dd"
+    },
+    {
+      "path": "assets/scenes/scene-map-ancestral-hall.webp",
+      "size": 18644,
+      "sha256": "6afd29b6104769b59ac49e0da1d78cbf7e32202103f483a4c32af1070fe8cb29"
+    },
+    {
+      "path": "assets/scenes/scene-map-estate-hub.png",
+      "size": 169160,
+      "sha256": "e483ec78a03587cbefe04320681ae95c4ab1d1ba652f61002bbc1095eb15b6c0"
+    },
+    {
+      "path": "assets/scenes/scene-map-estate-hub.webp",
+      "size": 20556,
+      "sha256": "b1ab6518a1ab5cfbc9c0f8b11ae5a31c2170da2107ffde6b674992fdf46c6af4"
+    },
+    {
+      "path": "assets/scenes/scene-map-ferry.png",
+      "size": 167374,
+      "sha256": "60434ec4bd1dc1a5cf68f592455a5485a47886b3241d5d38e400c661cca20981"
+    },
+    {
+      "path": "assets/scenes/scene-map-ferry.webp",
+      "size": 20288,
+      "sha256": "a3fc5ff08329210a03c113ae7a1b07ae3c4a1d303446ca81eb8008f7b950c0c6"
+    },
+    {
+      "path": "assets/scenes/scene-map-garden.png",
+      "size": 168982,
+      "sha256": "d3a8c35ab031fcfca0f25f0367e01b160d0f2951bcd476a9cdb3cbaaa6be62cc"
+    },
+    {
+      "path": "assets/scenes/scene-map-garden.webp",
+      "size": 24502,
+      "sha256": "c417697c5098ac76bbd2800ff97bce97dc5677bc2f233b27a87e78c15eae9c41"
+    },
+    {
+      "path": "assets/scenes/scene-map-market.png",
+      "size": 178315,
+      "sha256": "de9d6b1b523ce1f8ac7578841b6d94302b2dd88b19f9de1ff2631a944e5e55c0"
+    },
+    {
+      "path": "assets/scenes/scene-map-market.webp",
+      "size": 22968,
+      "sha256": "94022db6882a2c8a358f5cd2a8a49263cb21ff495368b8c91e3fc5b30ccdce81"
+    },
+    {
+      "path": "assets/scenes/scene-map-martial.png",
+      "size": 146136,
+      "sha256": "2187d2c59674f64d8e03b5946b43159cd07e9fc9ba9ab92c64174b976943c8a7"
+    },
+    {
+      "path": "assets/scenes/scene-map-martial.webp",
+      "size": 19852,
+      "sha256": "6e8e91d247bbc8753ea4d0c1c480ff9d9ce8d91ffcb1084868013b933fb3fd8c"
+    },
+    {
+      "path": "assets/scenes/scene-map-wilderness.png",
+      "size": 233672,
+      "sha256": "4e95b151428f3387455a4ed744fc3bf8d0701ec30c62c003d1105cee0bbd903e"
+    },
+    {
+      "path": "assets/scenes/scene-map-wilderness.webp",
+      "size": 37230,
+      "sha256": "ff453e1e87c933cb726cefbc0d9dd87e482389731065f0a05be06b48f867dec5"
+    },
+    {
+      "path": "assets/sounds/accident.m4a",
+      "size": 14577,
+      "sha256": "c4a7724d31ee6cbe47849cc78f8ba9102f8f26944bc74dc151f6f81381c63846"
+    },
+    {
+      "path": "assets/sounds/advance.m4a",
+      "size": 24010,
+      "sha256": "e4f8d229339ebc7d1d70662f3e47329c7f831c3879977b61f3cadd3d0f8bc260"
+    },
+    {
+      "path": "assets/sounds/bgm.m4a",
+      "size": 1469489,
+      "sha256": "8ce3431f796ce54407abdbe3c4d5ed884f531e9384f7921600fe1590d8bd2f44"
+    },
+    {
+      "path": "assets/sounds/birth.m4a",
+      "size": 26364,
+      "sha256": "40b609edf97c1018eea8cc6cca9313e4f7df61e5132d95974b1c2188d3963d3a"
+    },
+    {
+      "path": "assets/sounds/build.m4a",
+      "size": 13030,
+      "sha256": "edc98ba25265b336122439d5de5b5f14d813a5fb440298c66f42b85c4df3d66c"
+    },
+    {
+      "path": "assets/sounds/click.m4a",
+      "size": 12455,
+      "sha256": "c36ce1c30f17c11e8226c3199f8535e7175597a613024f72a9704d6376a196b8"
+    },
+    {
+      "path": "assets/sounds/close.m4a",
+      "size": 12789,
+      "sha256": "d07212fe589b7f71af0273fcf03605b4fd2ae400de8ee6b0ebba1fb8f625488a"
+    },
+    {
+      "path": "assets/sounds/confirm.m4a",
+      "size": 12676,
+      "sha256": "a6cc8a400a9c6d78a0dbf1329409e9f0ba22a489c2fbeaae53802363a736c338"
+    },
+    {
+      "path": "assets/sounds/death.m4a",
+      "size": 37387,
+      "sha256": "8d2d32f55be5b8bd9f1eff7be1051bb25c4f1e8f6bdebcb1ec920bdc390ecdc3"
+    },
+    {
+      "path": "assets/sounds/denied.m4a",
+      "size": 12346,
+      "sha256": "9ee5d52652189800c0c0fb2b4ef4ce88a6a750a1af3dc373d001fd34e1f89d09"
+    },
+    {
+      "path": "assets/sounds/duel-win.m4a",
+      "size": 25164,
+      "sha256": "e4c11c98571b55bc1b04cabe2f032eb082e2d1e900b97cb5003a2e952e0fcb63"
+    },
+    {
+      "path": "assets/sounds/event.m4a",
+      "size": 14360,
+      "sha256": "5f17a727f050272c13bc8cb0527a2301e1faa9bbe9066e172734a0d4b6f5fb81"
+    },
+    {
+      "path": "assets/sounds/exam-fail.m4a",
+      "size": 13045,
+      "sha256": "f326eda5a4288cc5cce31a3d6b313cfd0cecd222e720f8ac88bcf92d299f4572"
+    },
+    {
+      "path": "assets/sounds/exam-pass.m4a",
+      "size": 24682,
+      "sha256": "3ab6c0199ccc7396793299715772e03a05bf775942726c9c4a629f200f944aa3"
+    },
+    {
+      "path": "assets/sounds/explore-rare.m4a",
+      "size": 18398,
+      "sha256": "402df824d976114c94b685ef303aa7df677c44fc1fb1a6e64fde906cd0431429"
+    },
+    {
+      "path": "assets/sounds/explore.m4a",
+      "size": 12061,
+      "sha256": "93c2076450105293eb058e0e72bad67bcd596fd2ff6f07ea6843c7117f598ad0"
+    },
+    {
+      "path": "assets/sounds/gain.m4a",
+      "size": 13624,
+      "sha256": "217ae7025463e82cde770ae6f289f48d8f39aadd22fb6333ff010b9994817c6f"
+    },
+    {
+      "path": "assets/sounds/genealogy.m4a",
+      "size": 11852,
+      "sha256": "e09394a54ccbfcdedcb2d6b1b32c2670035b9e9a707606df832488fdaada3772"
+    },
+    {
+      "path": "assets/sounds/grabweek.m4a",
+      "size": 23688,
+      "sha256": "cff6adf337d8068890ca0baa9054db235fca2f7b9e9e68936d9b0909938052e6"
+    },
+    {
+      "path": "assets/sounds/inherit.m4a",
+      "size": 38883,
+      "sha256": "d95f9201708be3b8786bfc8111ac8e6903f5b3147f071bf501db5f4f08644f90"
+    },
+    {
+      "path": "assets/sounds/marry.m4a",
+      "size": 25369,
+      "sha256": "c25866587f8843c3ffb8610486c3a6e46a1d95ab8ab193420c163e1ccd1235f1"
+    },
+    {
+      "path": "assets/sounds/name.m4a",
+      "size": 12135,
+      "sha256": "e66c65eb8cb7e4554b16f5837e191928df3c8ed750fdece9a102587d85c6b5b5"
+    },
+    {
+      "path": "assets/sounds/palace.m4a",
+      "size": 26968,
+      "sha256": "5098cd1ef01b1db88070f6e204d3ea1b0f6671b283c5fe3526b81592277e668d"
+    },
+    {
+      "path": "assets/sounds/report.m4a",
+      "size": 24940,
+      "sha256": "776d85ee72662f33fb78231a57272d4ca9ae146b73ff235c4c1104d1d904cff2"
+    },
+    {
+      "path": "assets/sounds/save.m4a",
+      "size": 12350,
+      "sha256": "c6f893c0278205c17f3d20ee821bea6363212cc21be9bbca260d88625682727d"
+    },
+    {
+      "path": "assets/sounds/sick.m4a",
+      "size": 13237,
+      "sha256": "9f8497334cfff46996c23cd7b3aec86208ad27a7fe29b27fa6c84ece327f207f"
+    },
+    {
+      "path": "assets/sounds/tab.m4a",
+      "size": 12030,
+      "sha256": "ef85c7e42e775b2647ba6d70975fa5b669c6f2eddde2e8f93873b37be0a7d5a7"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-1.png",
+      "size": 92384,
+      "sha256": "7bd360bb6d2024b72c03e2e5b7a540b87892d87e9a3aa2252d4448a4f70bf664"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-1.webp",
+      "size": 16742,
+      "sha256": "4449182b09f8b73942963009d1d4111626b3f44a1fc3f4000e6534055ce04a0a"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-2.png",
+      "size": 84688,
+      "sha256": "03f65b744171ac74f6a51dc07eeb6a9df264064d55602a1cb95de2942a312f36"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-2.webp",
+      "size": 14858,
+      "sha256": "32747894992c3fd052b79983883616decf3c01913853ee16c76eca5cda9ae155"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-3.png",
+      "size": 81308,
+      "sha256": "a909e3cb5a89fda8c0dd12424625cf17a6fc4ff1fbc94518f807e5fdee5790ee"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-3.webp",
+      "size": 15004,
+      "sha256": "078e4e17faf7060ff37ab8dc6786dfb259684490cbb0eee0e94b40ad2bf1ded8"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-4.png",
+      "size": 87317,
+      "sha256": "b119c2f6ca2e25e90f1987d4cac9863a7bb9f70ee4e81d01d0470a98f7972082"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-4.webp",
+      "size": 14952,
+      "sha256": "aaecd3c28924c299eb406f1499aa8429429d1945e8edb18db4f79884b09063ad"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-5.png",
+      "size": 87685,
+      "sha256": "a49a3e98ebbf0e5032848cb2b7cf0306afbc2514cc86776d059cc0089b866598"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-5.webp",
+      "size": 15366,
+      "sha256": "a16dd5e448f0d7b2aedde343b830a590eefd20e51a12647da15adc20e2fc1ada"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-6.png",
+      "size": 93656,
+      "sha256": "7e2c9e967010827a88600c3a329cf2d9b1141bc47d4b9d2eda77e4acd997f750"
+    },
+    {
+      "path": "assets/ui/anomaly-badge-6.webp",
+      "size": 16376,
+      "sha256": "920e538ab7bb2f1de7d73d12f5a733306fb95e5a3d420f0355c1a744004ad4ca"
+    },
+    {
+      "path": "assets/ui/bottom-panel.png",
+      "size": 50112,
+      "sha256": "b9aa66d2b8d0340400a208b602d3f879e4af7ce30e263c391c0e963ff9cc3ab1"
+    },
+    {
+      "path": "assets/ui/bottom-panel.webp",
+      "size": 9110,
+      "sha256": "07fc3ca27d274e8b1dd30be7dd443212f7083ec7f0b07c62607e79bac1ec8792"
+    },
+    {
+      "path": "favicon.svg",
+      "size": 273,
+      "sha256": "3966c70055b699359fc1018dc797d5165f04cd678152afd9866425eb8a8e7126"
+    },
+    {
+      "path": "index.html",
+      "size": 2558,
+      "sha256": "892b52463c259072be136a8ea9393dd519f3ce362b773a166adfbb12b50c0e84"
+    },
+    {
+      "path": "lamps/game-leaderboard-bridge.js",
+      "size": 2590,
+      "sha256": "07e349d88620881ba9ba31f5e2026c7ea94c60e28a765be0601e4660312eb2a6"
+    },
+    {
+      "path": "lamps/game-leaderboard-platform.js",
+      "size": 2832,
+      "sha256": "82aa9219dc8594c64064df19c4a027765037f6eb726e5458bd4069fcfa5e7ec9"
+    },
+    {
+      "path": "lamps/game-progress-bridge.js",
+      "size": 2590,
+      "sha256": "ef92bcd15212b9a605ff8f847debf2f6ee61579e0c42c48353512698bb23377b"
+    },
+    {
+      "path": "lamps/game-progress-platform.js",
+      "size": 1941,
+      "sha256": "9467728dc2d4e1ce715a3dbc2a21acd8b347f823631ceb3342d40c92a2db91c6"
+    },
+    {
+      "path": "lamps/reward-ad-bridge.js",
+      "size": 12510,
+      "sha256": "91693746c9f5b71f57aac531ea68d255738a538578c48323c123142fb56d82e7"
+    },
+    {
+      "path": "lamps/reward-ad-config.js",
+      "size": 605,
+      "sha256": "e00a64635f9e30a101f74605fc18c4b29f87930d557ca3b5113c91cb162d9b0a"
+    },
+    {
+      "path": "lamps/reward-ad-platform.js",
+      "size": 4080,
+      "sha256": "276fcf9cae30c5ee2131dfd24be40cef0da386a9915500f551584d7fd2d9aa8b"
+    }
+  ],
+  "totalBytes": 22881890
+}

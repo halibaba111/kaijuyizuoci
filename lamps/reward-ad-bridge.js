@@ -8,6 +8,9 @@
   var METHOD_AD = "lamps.ad.showRewardedVideo";
   var STATUS_EVENT = "lamps.ad.rewardedVideoStatus";
   var LEGACY_STATUS_EVENT = "hoorah.ad.rewardedVideoStatus";
+  // 部分容器会先回 onRewardArrived，再回 onClose；给关闭结果一个确认窗口，
+  // 避免中途退出时的未完成状态被前一个回调抢先结算。
+  var REWARD_CONFIRM_GRACE_MS = 3000;
 
   var ERR_MESSAGES = {
     2001: "广告能力未就绪",
@@ -276,10 +279,6 @@
     );
   }
 
-  function isRewardedFlag(value) {
-    return value === true || value === 1 || value === "1" || value === "true";
-  }
-
   function parsePayload(raw) {
     var payload = asObject(raw);
     if (!payload) return {};
@@ -345,12 +344,18 @@
 
     return new Promise(function (resolve) {
       var rewarded = false;
+      var closeReceived = false;
       var settled = false;
       var off = function () {};
+      var rewardConfirmTimer = null;
 
       function settle(result) {
         if (settled) return;
         settled = true;
+        if (rewardConfirmTimer !== null) {
+          global.clearTimeout(rewardConfirmTimer);
+          rewardConfirmTimer = null;
+        }
         currentSettle = null;
         off();
         resolve(result);
@@ -366,9 +371,15 @@
           return;
         }
         if (name === "onRewardArrived") {
-          if (ev.rewardStatus !== false) rewarded = true;
-          if (rewarded || isRewardedFlag(ev.rewardStatus)) {
-            settle({ ok: true });
+          // 先记录奖励信号，不立即结算：onClose 的未完成状态必须有机会否决它。
+          rewarded = true;
+          if (rewardConfirmTimer === null) {
+            rewardConfirmTimer = global.setTimeout(function () {
+              rewardConfirmTimer = null;
+              // 兼容只回 onRewardArrived、不回 onClose 的旧容器；
+              // 只要期间没有收到关闭结果，才允许按奖励信号结算。
+              if (!settled && !closeReceived && rewarded) settle({ ok: true });
+            }, REWARD_CONFIRM_GRACE_MS);
           }
           return;
         }
@@ -377,7 +388,13 @@
           return;
         }
         if (name === "onClose") {
-          if (rewarded || isRewardedFlag(ev.rewardStatus)) {
+          closeReceived = true;
+          if (rewardConfirmTimer !== null) {
+            global.clearTimeout(rewardConfirmTimer);
+            rewardConfirmTimer = null;
+          }
+          // onClose 的未完成结果优先级最高，不能被提前收到的奖励信号覆盖。
+          if (ev.rewardStatus === true) {
             settle({ ok: true });
             return;
           }

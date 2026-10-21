@@ -44,12 +44,6 @@
     return Object.prototype.hasOwnProperty.call(bag, name) ? bag[name] : null;
   }
 
-  function isMockEnabled() {
-    if (global.__HOORAH_AD_UNLOCK_MOCK__ === true) return true;
-    var v = qs("adUnlockMock") || qs("ad_unlock_mock");
-    return v === "1" || v === "true";
-  }
-
   function nonempty(value) {
     if (value == null) return "";
     return String(value).trim();
@@ -126,10 +120,6 @@
         code: "UNAVAILABLE",
         message: "激励视频暂不可用",
       });
-    }
-    if (isMockEnabled() && !isAvailable()) {
-      console.info("[LampsPlatform] showRewardedVideo mock ok");
-      return Promise.resolve({ ok: true });
     }
     var forward =
       options.forward_source ||
