@@ -1,0 +1,13 @@
+* text=auto
+
+# 二进制资源，避免换行符转换
+*.webp binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+*.m4a binary
+*.mp3 binary
+*.woff2 binary
